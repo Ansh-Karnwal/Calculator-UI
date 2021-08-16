@@ -1,4 +1,3 @@
-from itertools import product
 import tkinter
 from functools import reduce
 from tkinter.constants import END, NSEW, NW
